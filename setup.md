@@ -150,3 +150,4 @@ Once you've completed the setup, take out your phone and send a photo to your Tw
 Also, to check whether your collage has been updated without checking your Electric Objects display directly, just access the collage image from your S3 bucket, in the [AWS S3 console](https://console.aws.amazon.com/s3/home).
 This is fourth commit on auth branch
 This is fifth commit on auth
+This is sixth commit
