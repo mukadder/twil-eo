@@ -148,3 +148,4 @@ Once you've completed the setup, take out your phone and send a photo to your Tw
 2. Check the [AWS CloudWatch logs](https://console.aws.amazon.com/cloudwatch/home) for your Lambda function to see if the function terminated successfully.
 
 Also, to check whether your collage has been updated without checking your Electric Objects display directly, just access the collage image from your S3 bucket, in the [AWS S3 console](https://console.aws.amazon.com/s3/home).
+This is fourth commit on auth branch
