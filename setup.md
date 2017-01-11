@@ -157,4 +157,8 @@ This is fourth commit on auth branch
 This is fifth commit on auth
 This is sixth commit
 this is seventh commit
+<<<<<<< HEAD
 
+=======
+this is eighth commit
+>>>>>>> oauth-signin
