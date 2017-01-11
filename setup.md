@@ -155,4 +155,8 @@ commit 2 This is second commit
 commit 3 This is third commit
 This is fourth commit on auth branch
 This is fifth commit on auth
+<<<<<<< HEAD
 
+=======
+This is sixth commit
+>>>>>>> oauth-signin
